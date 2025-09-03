@@ -1,0 +1,36 @@
+# ✅ Day 1 Checklist — Environment & GitHub Setup
+
+## 🎯 Goal
+Get my coding environment ready and set up a portfolio repo on GitHub.
+
+---
+
+## 📋 Tasks
+- [✅] Install **Python 3.11+**
+  - Check with: `python --version`
+- [✅] Install **VS Code**
+  - Install extensions: Python, Pylance, GitLens (optional)
+- [✅] Install **Git**
+  - Check with: `git --version`
+- [✅] Create GitHub account (if not already)
+- [✅] Create new repo `bee-labs`
+- [✅] Add `README.md` with roadmap & goals
+- [✅] Commit & push the README to GitHub
+
+---
+
+## 🕒 Time Block
+- 75–120 minutes max (don’t overdo it).
+- Daily log: write down what worked, what blocked me.
+
+---
+
+## 📌 Deliverables
+- Python, VS Code, and Git installed
+- GitHub repo `bee-labs` created
+- README pushed
+- Screenshot of setup (optional)
+
+---
+
+✨ Once this is done → move on to **Day 2: Python basics (variables, types, input/output)**.
